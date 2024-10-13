@@ -26,12 +26,4 @@ Approach:
 7. Interactive Visualizations: Develop dynamic and interactive visualizations that allow users to filter and drill down into the data based on their preferences. Enable users to interact with the visualizations to explore specific regions, property types, or time periods of interest.
 8. Dashboard Creation: Utilize Tableau or Power BI to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
 
-NAME : ARUNKUMAR BAIRAVAN
 
-BATCH: DW60DW61
-
-DOMAIN : DATA SCIENCE
-
-DEMO VIDEO URL: https://youtu.be/UkMtBpIob5E
-
-LINKED IN URL : https://www.linkedin.com/feed/update/urn:li:activity:7109582808372703232/
